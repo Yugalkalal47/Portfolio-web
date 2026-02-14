@@ -1,0 +1,62 @@
+body{
+    margin: 50px;
+    
+}
+
+.pp{
+    width: 150px;
+    height: 150px;
+}
+
+.div1{
+    display: flex;
+    gap: 30px;
+}
+
+.dp{
+    flex: 2;
+}
+
+.name{
+    flex:3 ;
+    line-height: 50%;
+}
+
+.contact{
+    display: flex;
+    gap: 30px;
+
+}
+
+.pngs{
+    width: 22px;
+    height: 22px;
+    margin-top:10px;
+    
+    
+}
+
+.education{
+    display: flex;
+    gap: 20px;
+}
+
+.uni{
+    flex: 2;
+}
+
+.degree{
+    flex: 5;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    line-height: 0;
+}
+
+.ref{
+display: flex;
+gap: 20px;
+}
